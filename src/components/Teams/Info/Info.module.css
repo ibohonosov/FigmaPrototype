@@ -1,0 +1,33 @@
+.rowOne {
+  background-color: rgb(237, 218, 255);
+}
+
+span {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.green {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #1fad87;
+  background-color: #daf5ee;
+  border-radius: 30px;
+  font-weight: 700;
+  min-height: 40px;
+  max-width: 100px;
+}
+
+.red {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #e64a18;
+  background-color: #ffeae3;
+  border-radius: 30px;
+  font-weight: 700;
+  min-height: 40px;
+  max-width: 100px;
+}
+
